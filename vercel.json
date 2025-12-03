@@ -7,3 +7,10 @@
     { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
+{
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
